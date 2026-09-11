@@ -1,0 +1,1 @@
+Reconstruct Base64 fragments into mb-v022.tar.xz, verify SHA-256 b59d872a8c95ef57d6201bbaf79ecd7e58533043612442306b03e5cf90794058, extract ModernBackport-26.1-to-1.12.2-v0.22, replace repository root source tree, remove staging files, commit to main.
